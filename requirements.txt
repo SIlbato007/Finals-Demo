@@ -1,0 +1,12 @@
+rank_bm25
+fastembed
+langchain
+langchain_community
+langchain_core
+huggingface_hub
+chromadb
+dotenv
+python-dotenv
+streamlit
+uvicorn
+unstructured [pdf]
